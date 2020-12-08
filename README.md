@@ -2,8 +2,12 @@
 
 ## The Growth Mindset
 
-The growth mindset is an optimistic look on life. With the growth mindset you will see returns on your hard work, and improved efficiency in mental development. 
-### Pilars of the Growth Mindset
+The growth mindset is an optimistic look on life. With the growth mindset you will see returns on your hard work, and improved efficiency in mental development. The growth mindset drives motivation and achievement through individualistic or collaborative efforts. The "Growth Mindset" is about: 
+1. **Embracing Challenges, chosing the hard right over the easy wrong**
+2. **Overcoming obstacles, by being persistent in the face of setbacks** 
+3. **See effort a pathway to learning and growth, and put forth continued effort until the task is accomplished** 
+4. **With the growth mindest one should embrace all criticism and use it as a tool to make themselves better which will impact any and everything they interact with.** 
+5. **Success of others is something that affects us all mentally however in this mindset 
 
 You can use the [editor on GitHub](https://github.com/Marleyman876/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
