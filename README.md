@@ -19,14 +19,14 @@ You can use the [editor on GitHub](https://github.com/Marleyman876/reading-notes
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
+My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica). I am an 8year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life. For more about me you can conncet with me via [LinkeIn](https://www.linkedin.com/in/garfieldgrant/) to see my professional work 
+Here are a few examples of some of my favourite quotes in differeways you can use Markdown; 
+1. As a Header. 
+# "Do it for Love, not for Likes!" Chronixx 
 ## Header 2
 ### Header 3
 
