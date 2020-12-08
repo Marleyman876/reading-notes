@@ -7,7 +7,7 @@ The growth mindset is an optimistic look on life. With the growth mindset you wi
 2. **Overcoming obstacles, by being persistent in the face of setbacks** 
 3. **See effort a pathway to learning and growth, and put forth continued effort until the task is accomplished** 
 4. **With the growth mindest one should embrace all criticism and use it as a tool to make themselves better which will impact any and everything they interact with.** 
-5. **Silver fox**
+5. **Finding inspiration in the success of others is a big part of the "Growth Mindest," this will bring in my opinion good karma and good energy in your life and the workplace.** 
 
 You can use the [editor on GitHub](https://github.com/Marleyman876/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
