@@ -1,6 +1,7 @@
 # Welcome to Garfield's 102 Notes Pages
 
 ## The Growth Mindset
+
 The growth mindset is an optimistic look on life. With the growth mindset you will see returns on your hard work, and improved efficiency in mental development. 
 ### Pilars of the Growth Mindset
 
