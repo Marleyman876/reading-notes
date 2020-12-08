@@ -13,19 +13,16 @@ The growth mindset is an optimistic look on life. With the growth mindset you wi
 - Embrace challeges and consider the hard right as a way in which to build character and always give maximum effort. 
 - I love criticism especially from individuals who are more experienced and in my eyes more advanced than me, if i can get feedback from other i can use that to improve drastically in my day to day journey.
 - I find inspiration in the success of others especially if I played a part their success.  
+### About Me 
 
-
-You can use the [editor on GitHub](https://github.com/Marleyman876/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-[Jamaica](https://www.britannica.com/place/Jamaica.md)
-
+My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life. For more about me you can conncet with me via [LinkeIn](https://www.linkedin.com/in/garfieldgrant/) to see my professional work.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About Me
 
 
 ```markdown
-My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life. For more about me you can conncet with me via [LinkeIn](https://www.linkedin.com/in/garfieldgrant/) to see my professional work 
+My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life_. For more about me you can conncet with me via [LinkeIn](https://www.linkedin.com/in/garfieldgrant.md) to see my professional work 
 Here are a few examples of some of my favourite quotes in differeways you can use Markdown; 
 1. As a Header. 
 # "Do it for Love, not for Likes!" Chronixx 
@@ -46,6 +43,9 @@ Here are a few examples of some of my favourite quotes in differeways you can us
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
+
+
+You can use the [editor on GitHub](https://github.com/Marleyman876/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marleyman876/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
