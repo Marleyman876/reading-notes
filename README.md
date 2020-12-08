@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to Garfield's 102 Notes Pages
+
+##The Growth Mindset
+The growth mindset is an optimistic look on life. With the growth mindset you will see returns on your hard work, and improved efficiency in mental development. 
+### Pilars of the Growth Mindset
 
 You can use the [editor on GitHub](https://github.com/Marleyman876/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
