@@ -17,10 +17,6 @@ The growth mindset is an optimistic look on life. With the growth mindset you wi
 ### About Me 
 My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life_. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) or on [Github](https://github.com/Marleyman876.md) to see my professional work. 
 
-```markdown
-My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life_. For more about me you can conncet with me via [LinkedIn](https://www.linkedin.com/in/garfieldgrant.md) or on [Github](https://github.com/Marleyman876.md) to see my professional work.
-```
-
 <!--Here are a few examples of some of my favourite quotes in differeways you can use Markdown; 
 1. As a Header. 
 # "Do it for Love, not for Likes!" Chronixx 
