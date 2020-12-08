@@ -15,34 +15,4 @@ The growth mindset is an optimistic look on life. With the growth mindset you wi
 - I find inspiration in the success of others especially if I played a part their success.  
 
 ### About Me 
-![Image](/Users/garfieldgrant/Desktop/2-45.jpg)
 My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8 year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life_. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) or on [Github](https://github.com/Marleyman876) to see my professional work. 
-<!--Here are a few examples of some of my favourite quotes in differeways you can use Markdown; 
-1. As a Header. 
-# "Do it for Love, not for Likes!" Chronixx 
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-
-You can use the [editor on GitHub](https://github.com/Marleyman876/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marleyman876/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.--> 
