@@ -15,4 +15,4 @@ The growth mindset is an optimistic look on life. With the growth mindset you wi
 - I find inspiration in the success of others especially if I played a part their success.  
 
 ### About Me 
-My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8 year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life_. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) or on [Github](https://github.com/Marleyman876) to see my professional work. 
+My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8 year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life_. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) or on [Github](https://github.com/Marleyman876) to see my professional work.
