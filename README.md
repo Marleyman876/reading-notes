@@ -40,3 +40,5 @@ While there may be a bunch of different tools to choose from the basic and most 
 + ls -la displays all files 
 + rm removes a file or directories
 + mkdir creates a new directory
+
+[Cheat Sheet](https://github.com/Marleyman876/reading-notes/blob/main/cheat%20sheet.md) 
