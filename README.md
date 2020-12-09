@@ -41,3 +41,5 @@ While there may be a bunch of different tools to choose from the basic and most 
 + rm removes a file or directories
 + mkdir creates a new directory
 
+[Cheat Sheet.md](/cheat_sheet.md)
+
