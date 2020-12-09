@@ -8,3 +8,9 @@ While there may be a bunch of different tools to choose from the basic and most 
 + different themes to help reduce fatige and create a comfortable environment 
 + the ability to ad a wide variety of extensions. 
 ## Basic helpful terminal commands 
++ cd Change directory
++ ls List all the files in the directory
++ ls -l Displays a more detailed list including timestamps, file permissions and date modified. 
++ ls -la displays all files 
++ rm removes a file or directories
++ mkdir creates a new directory
