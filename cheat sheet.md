@@ -1,6 +1,6 @@
 # What is the best editor? 
 
-Chosing the corrcet editor for the task that you are doing while coding is just as essential as a mechanic chosing the correct tool when working on a vehicle. 
+Chosing the correct editor for the task that you are doing while coding is just as essential as a mechanic chosing the correct tool when working on a vehicle. 
 By chosing the correct editor it allows for more seamless communication between tools and more effiency for the coder to get their task completed with more efficiency. 
 While there may be a bunch of different tools to choose from the basic and most efficient tools should have:
 + code completion
