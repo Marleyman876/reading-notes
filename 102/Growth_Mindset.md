@@ -1,5 +1,5 @@
 ## About Me 
-My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8 year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life_. Feel free to connect with me via Social media: [LinkedIn](https://www.linkedin.com/in/garfieldgrant/), [Twitter](https://twitter.com/d_faded1) or on [Github](https://github.com/Marleyman876) to see my professional work. 
+My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8 year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life_.  
 
 ### The Growth Mindset
 
@@ -14,3 +14,9 @@ The growth mindset is an optimistic look on life. With the growth mindset you wi
 - Embrace challeges and consider the hard right as a way in which to build character and always give maximum effort. 
 - I love criticism especially from individuals who are more experienced and in my eyes more advanced than me, if i can get feedback from other i can use that to improve drastically in my day to day journey.
 - I find inspiration in the success of others especially if I played a part their success.
+
+
+
+
+Follow me on Social Media: 
+[Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) [Instagram](https://www.instagram.com/faded_in_reality/).  
