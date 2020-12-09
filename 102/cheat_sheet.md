@@ -14,3 +14,17 @@ While there may be a bunch of different tools to choose from the basic and most 
 + ls -la displays all files 
 + rm removes a file or directories
 + mkdir creates a new directory
+
+
+
+
+
+
+
+
+
+
+
+
+Follow me on Social Media: 
+[Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) [Instagram](https://www.instagram.com/faded_in_reality/).  
