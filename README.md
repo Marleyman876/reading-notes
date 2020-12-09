@@ -1,6 +1,8 @@
 # Welcome to Garfield's 102 Notes Pages
 
 # Table of Contents
+- [Module 1 The Growth Process](https://marleyman876.github.io/reading-notes/) 
+- [Module 2 Cheat Sheet](https://github.com/Marleyman876/reading-notes/blob/main/cheat%20sheet.md) 
 - [About me](#About-Me)  
 - [The Growth Mindset](#The-Growth-Mindset)
 - [How do I keep in the "Growth MIndset."](#How-do-I-keep-in-the-"Grwoth-Mindset") 
@@ -41,4 +43,3 @@ While there may be a bunch of different tools to choose from the basic and most 
 + rm removes a file or directories
 + mkdir creates a new directory
 
-[Cheat Sheet](https://github.com/Marleyman876/reading-notes/blob/main/cheat%20sheet.md) 
