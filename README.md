@@ -4,6 +4,7 @@
 - [About me](#About-Me)  
 - [The Growth Mindset](#The-Growth-Mindset)
 - [How do I keep in the "Growth MIndset."](#How-do-I-keep-in-the-"Grwoth-Mindset") 
+- [What is the best editor?](#What-is-the-best-editor?) 
 ## About Me 
 My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8 year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life_. Feel free to connect with me via Social media: [LinkedIn](https://www.linkedin.com/in/garfieldgrant/), [Twitter](https://twitter.com/d_faded1) or on [Github](https://github.com/Marleyman876) to see my professional work. 
 
@@ -20,3 +21,20 @@ The growth mindset is an optimistic look on life. With the growth mindset you wi
 - Embrace challeges and consider the hard right as a way in which to build character and always give maximum effort. 
 - I love criticism especially from individuals who are more experienced and in my eyes more advanced than me, if i can get feedback from other i can use that to improve drastically in my day to day journey.
 - I find inspiration in the success of others especially if I played a part their success.  
+
+#### What is the best editor? 
+
+Chosing the corrcet editor for the task that you are doing while coding is just as essential as a mechanic chosing the correct tool when working on a vehicle. 
+By chosing the correct editor it allows for more seamless communication between tools and more effiency for the coder to get their task completed with more efficiency. 
+While there may be a bunch of different tools to choose from the basic and most efficient tools should have:
++ code completion
++ syntax highlighting 
++ different themes to help reduce fatige and create a comfortable environment 
++ the ability to ad a wide variety of extensions. 
+##### Basic helpful terminal commands 
++ cd Change directory
++ ls List all the files in the directory
++ ls -l Displays a more detailed list including timestamps, file permissions and date modified. 
++ ls -la displays all files 
++ rm removes a file or directories
++ mkdir creates a new directory
