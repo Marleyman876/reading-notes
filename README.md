@@ -5,6 +5,7 @@
 - [The Growth Mindset](#The-Growth-Mindset)
 - [How do I keep in the "Growth MIndset."](#How-do-I-keep-in-the-"Grwoth-Mindset") 
 - [What is the best editor?](#What-is-the-best-editor?) 
+
 ## About Me 
 My names is Garfield, I was born on Western most point of the island of [Jamaica](https://www.britannica.com/place/Jamaica.md). I am an 8 year Army veteran that enjoys _spending time with his family, scuba diving, travelling and some of the simple pleasures of life_. Feel free to connect with me via Social media: [LinkedIn](https://www.linkedin.com/in/garfieldgrant/), [Twitter](https://twitter.com/d_faded1) or on [Github](https://github.com/Marleyman876) to see my professional work. 
 
