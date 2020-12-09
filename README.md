@@ -1,7 +1,7 @@
 # Welcome to Garfield's 102 Notes Pages
 
 # Table of Contents 
-- [About me](##About-Me)  
+- [About me](#About-Me)  
 - [The Growth Mindset](###The-Growth-Mindset)
 - [How do I keep in the "Growth MIndset."](####How-do-I-keep-in-the-"Grwoth-Mindset") 
 - [What is the best editor?](#####What-is-the-best-editor?) 
