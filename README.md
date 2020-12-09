@@ -1,5 +1,6 @@
 # Welcome to Garfield's 102 Notes Pages
 
+[Growth_Mindset](/102/Growth_Mindset.md) 
 # Table of Contents 
 - [About me](#About-Me)  
 - [The Growth Mindset](###The-Growth-Mindset)
