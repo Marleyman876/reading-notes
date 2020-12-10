@@ -24,4 +24,6 @@ go to termninal use git clone then url to clone repository
 (main)$ on your terminal shows that the terminl is now connected to the repository 
  (main) $ls lists everything in the repository in your machnie 
  
-if you run a git status and the file comes back red then the co9mmint has not been made; use `git add filename` to add the document that you have changed. 
+if you run a git status and the file comes back red then the co9mmint has not been made; use `git add filename` to add the document that you have changed.
+
+
