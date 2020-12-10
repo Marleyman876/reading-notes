@@ -6,7 +6,7 @@ While there may be a bunch of different tools to choose from the basic and most 
 + code completion
 + syntax highlighting 
 + different themes to help reduce fatigue and create a comfortable environment 
-+ the ability to ad a wide variety of extensions. 
++ the ability to add a wide variety of extensions. 
 ## Basic helpful terminal commands 
 + cd Change directory
 + ls List all the files in the directory
