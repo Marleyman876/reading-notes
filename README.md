@@ -5,6 +5,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 2. Module 2 [Cheat Sheet](/102/cheat_sheet.md)
 3. Module 3 [Add Repositories using GIT Cmds](/102/Adding_Repositories_using_GIT.md)
 4. Module 4 [Process and Design](/102/Process_and_Design.md)
+5. Module 5 [CSS](/102/CSS.md)
 
 Follow me on Social Media: 
 [Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) [Instagram](https://www.instagram.com/faded_in_reality/).  
