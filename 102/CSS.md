@@ -12,4 +12,4 @@
 + Always keep your code clean
 + The style link always goes into the header tag 
 + Margin controls box and boxes around it 
-+ Padding is content inside the box 
++ Padding is content inside the box
