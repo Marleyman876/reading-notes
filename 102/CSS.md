@@ -1,4 +1,4 @@
-# What do we Already know?
+# CSS What do we Already know?
 
 + It adds styling and presentation to a website
 + Stands for Cascading Style Sheets
@@ -7,7 +7,7 @@
 + **Sheet** We can have mutiple files
 + Apply styles to \</tags>
 + You need HTML code to
-
++ Two ways to add CSS to html internal CSS and external CSS
 ## Tips 
 + Always keep your code clean
 + The style link always goes into the header tag 
