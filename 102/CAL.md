@@ -1,3 +1,4 @@
+# Computers and how they work
 
 Computers have evolved over time becoming more and more interactive. 
 The flow and processiong of information from input to out is all precisely calculated and conceptualized based on logic and the process they go through. 
