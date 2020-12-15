@@ -6,4 +6,4 @@
 *A list of parameters to the function, enclosed in parentheses and separated by commas.*
 *The JavaScript statements that define the function, enclosed in curly brackets.*
 
-Click think [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) for  more information on functions. 
+Click this [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) for  more information on functions. 
