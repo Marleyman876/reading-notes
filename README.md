@@ -11,7 +11,11 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 6. Module 6 [Activate Pages with Java](/102/java.md)
 7. Module 7 [Computer Architecture and Logic](/102/CAL.md)
 8. Module 8 [Functions](/102/Functions.md)
+<<<<<<< HEAD
 9. module 9 [Loops](/102/loops.md)
+=======
+9. Module 9 [Loops](102\loops.md)
+>>>>>>> 2005852b3b7e5fbe19838263a51adf2534f3111d
 
 Follow me on Social Media:
 [Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) [Instagram](https://www.instagram.com/faded_in_reality/).  
