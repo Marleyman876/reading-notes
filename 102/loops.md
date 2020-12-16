@@ -15,4 +15,4 @@ for (i = 0; i < 10; i++)
 } 
 < /script> 
 ```
-For more about loops click the [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration). 
+For more about loops click the [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration).
