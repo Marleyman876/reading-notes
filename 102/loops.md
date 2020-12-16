@@ -3,8 +3,9 @@
 + A loop is a repetitive way of doing things within a code.  
 + There are many different kinds of loops, but they all essentially do the same thing: they repeat an action some number of times. (Note that it's possible that number could be zero!)
 + Threee types *for* *while* *do while*
- An example of a working loop is shown below; 
  
+An example of a working loop is shown below; 
+
  ```
  <script type = "text/javascript"> 
 var i; 
