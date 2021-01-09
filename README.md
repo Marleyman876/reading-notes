@@ -16,7 +16,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 
 # Class 201
 
-1. Module 1
+1. Module 1 [Class 1 Reading](/201/class01.md)
 2. Module 2
 3. Module 3
 4. Module 4
