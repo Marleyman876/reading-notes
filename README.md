@@ -17,5 +17,20 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 # Class 201
 
 1. Module 1
+2. Module 2
+3. Module 3
+4. Module 4
+5. Module 5
+6. Module 6
+7. Module 7
+8. Module 8
+9. Module 9
+10. Module 10
+11. Module 11
+12. Module 12
+13. Module 13
+14. Module 14
+15. Module 15
+
 Follow me on Social Media:
 [Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) [Instagram](https://www.instagram.com/faded_in_reality/).  
