@@ -16,21 +16,21 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 
 # Class 201
 
-1. Module 1 [Class 1 Reading](/201/class01.md)
-2. Module 2
-3. Module 3
-4. Module 4
-5. Module 5
-6. Module 6
-7. Module 7
-8. Module 8
-9. Module 9
-10. Module 10
-11. Module 11
-12. Module 12
-13. Module 13
-14. Module 14
-15. Module 15
+1. class-01.md [Class 1 Reading](/201/class01.md)
+2. class-02.md
+3. class-03.md
+4. class-04.md
+5. class-05.md
+6. class-06.md
+7. class-07.md
+8. class-08.md
+9. class-09.md
+10. class-10.md
+11. class-11.md
+12. class-12.md
+13. class-13.md
+14. class-14.md
+15. class-15.md
 
 Follow me on Social Media:
 [Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) [Instagram](https://www.instagram.com/faded_in_reality/).  
