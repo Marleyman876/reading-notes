@@ -6,10 +6,10 @@ There are different occasions why we use lists in coding, within HTML there are 
 
 An ordered list has items listed sequentially and numbered in formats of 1,2,3... or in roman or alphabetically a,b,c.
 An or dered lis in Html is indicated by:
-`<ol>
-<li> Numreo uno<li>
-<li>Numero Dos</li>
-</ol>`
+`<ol>`
+  `<li> Numreo uno<li>`
+  `<li>Numero Dos</li>`
+  `</ol>`
 In the example above  `<ol></ol>` is the  and `<li></li> is the child. More infomation about ordered list is provided [here](https://www.w3schools.com/html/html_lists_ordered.asp).
 
 + ## Unordered List
