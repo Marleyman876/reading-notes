@@ -20,7 +20,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 2. [class-02.md](/201/class02.md)
 3. [class-03.md](/201/class03.md)
 4. [class-04.md](201/class04.md)
-5. class-05.md
+5. [class-05.md](201/class05.md)
 6. class-06.md
 7. class-07.md
 8. class-08.md
