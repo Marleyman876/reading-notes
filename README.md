@@ -22,7 +22,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 4. [class-04.md](201/class04.md)
 5. [class-05.md](201/class05.md)
 6. [class-06.md](201/class06.md)
-7. class-07.md
+7. [class-07.md](201/class07.md)
 8. class-08.md
 9. class-09.md
 10. class-10.md
