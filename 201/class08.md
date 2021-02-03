@@ -8,7 +8,7 @@ CSS has positioning schemes that allow you to control the layout of a page. Some
 
 * [Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 
-* [Positionings](https://developer.mozilla.org/en-us/docs/Learn/CSS/CSS_layout/Positioning).
+* [Positioning](https://developer.mozilla.org/en-us/docs/Learn/CSS/CSS_layout/Positioning).
 
 ## Layout
 
@@ -17,3 +17,17 @@ because of screen sizes display resolutions vary. To remedy this issue there are
 * [Fixed layout](https://www.techrepublic.com/article/creating-a-fixed-width-layout-with-css/)
 
 * [fluid Layout](https://techterms.com/definition/fluid_layout#:~:text=A%20fluid%20layout%20is%20a,%2C%20two%2C%20or%20three%20columns.)
+
+
+### References
+ 
+Jon Duckett
+HTML & CSS design and build websites
+
+[Techrepublic](https://www.techrepublic.com/article/creating-a-fixed-width-layout-with-css/)
+
+[TechTerms](https://techterms.com/definition/fluid_layout#:~:text=A%20fluid%20layout%20is%20a,,%20two,%20or%20three%20columns.)
+
+[MDN WebDocs](https://developer.mozilla.org/en-us/docs/Learn/CSS/CSS_layout/Positioning)
+
+[W3 Schools](https://www.w3schools.com/css/css_intro.asp). 
