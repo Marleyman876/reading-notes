@@ -1,9 +1,11 @@
 # Welcome to Garfield's  Notes Pages
 
 Learning to code can be a daunting task, thus this pages is created in an effort to make copious and effective notes i hope to one day refer to when i become a full time Software Engineer. I hope you find these notes helpful as well.
-# Table of Contents
 
-# Class 102
+## Table of Contents
+
+## Class 102
+
 1. Module 1 [Growth_Mindset](/102/Growth_Mindset.md)
 2. Module 2 [Cheat Sheet](/102/cheat_sheet.md)
 3. Module 3 [Add Repositories using GIT Cmds](/102/Adding_Repositories_using_GIT.md)
@@ -14,7 +16,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 8. Module 8 [Functions](/102/Functions.md)
 9. module 9 [Loops](/102/loops.md)
 
-# Class 201
+## Class 201
 
 1. [class-01.md](/201/class01.md)
 2. [class-02.md](/201/class02.md)
@@ -24,7 +26,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 6. [class-06.md](201/class06.md)
 7. [class-07.md](201/class07.md)
 8. [class-08.md](201/class08.md)
-9. class-09.md
+9. [class-09.md](201/class09.md)
 10. class-10.md
 11. class-11.md
 12. class-12.md
