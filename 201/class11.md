@@ -10,7 +10,7 @@ Reference:
 
 [MDN Web docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
-Google Developers(https://developers.google.com/search/docs/beginner/seo-starter-guide)
+[Google Developers](https://developers.google.com/search/docs/beginner/seo-starter-guide)
 
 Jon Duckett
 HTML & CSS design and build websites
