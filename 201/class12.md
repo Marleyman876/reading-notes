@@ -1,0 +1,3 @@
+# Displaying Data
+
+Displaying data is an essential part of being a developer. Charts are, according to [webdesignerdepot](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/) by far the most efficient way to display data using the chart.js tools. Chart.js is a Javascript plugin tool that can be added to your text editor to help with displaying charts in a more efficient way. 
