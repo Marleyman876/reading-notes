@@ -4,7 +4,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 
 ## Table of Contents
 
-## Class 102
+## Class 102 - Intro to Software Development
 
 1. Module 1 [Growth_Mindset](/102/Growth_Mindset.md)
 2. Module 2 [Cheat Sheet](/102/cheat_sheet.md)
@@ -16,7 +16,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 8. Module 8 [Functions](/102/Functions.md)
 9. module 9 [Loops](/102/loops.md)
 
-## Class 201
+## Class 201 - Foundations of Software Development
 
 1. [class-01.md](/201/class01.md)
 2. [class-02.md](/201/class02.md)
@@ -33,7 +33,10 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 13. [class-13.md](201/class13.md)
 14. [class-14.md](201/class14.md)
 14b. [class-14b.md](201/class14b.md)
-15. class-15.md
+
+## Class 301- Intermediate Software Development
+
+1. [class-01.md](301/class01.md)
 
 Follow me on Social Media:
 [Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) [Instagram](https://www.instagram.com/faded_in_reality/).  
