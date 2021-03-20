@@ -41,8 +41,6 @@ It is called JSX, and it is a syntax extension to JavaScript. We recommend using
 
 JSX produces React “elements”. We will explore rendering them to the DOM in the next section. Below, you can find the basics of JSX necessary to get you started.
 
-
-
 References:
 
 + [Intro to React](https://reactjs.org/tutorial/tutorial.html)
