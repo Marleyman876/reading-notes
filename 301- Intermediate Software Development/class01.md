@@ -1,35 +1,50 @@
-# State and Props
+# Passing Data through Hoops
 
 ## What is React
 
-React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
++ React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
 
-## React Functions
++ React is a JavaScript Library.
 
-You can convert a function component like Clock to a class in five steps:
+React has a few different kinds of components, but we’ll start with React.Component subclasses:
 
-1. Create an ES6 class, with the same name, that extends React.Component.
-2. Add a single empty method to it called render().
-3. Move the body of the function into the render() method.
-4. Replace props with this.props in the render() body.
-5. Delete the remaining empty function declaration.
+``` html
 
-## Events
+class ShoppingList extends React.Component {
+  render() {
+    return (
+      <div className="shopping-list">
+        <h1>Shopping List for {this.props.name}</h1>
+        <ul>
+          <li>Instagram</li>
+          <li>WhatsApp</li>
+          <li>Oculus</li>
+        </ul>
+      </div>
+    );
+  }
+}
 
-Handling events with React elements is very similar to handling events on DOM elements. There are some syntax differences:
-
-React events are named using camelCase, rather than lowercase.
-With JSX you pass a function as the event handler, rather than a string. In HTML this would look like:
-
-```html
-
-<button onclick="activateLasers()">
-  Activate Lasers
-</button> 
+// Example usage: <ShoppingList name="Mark" />
 ```
 
-For more reading click the resources:
+## JSX
 
-[React Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
-[React Docs - handling events](https://reactjs.org/docs/handling-events.html)
-[React Tutorial through ‘Developer Tools’](https://reactjs.org/tutorial/tutorial.html)
+``` html
+
+const element = <h1>Hello, world!</h1>;
+```
+
+This funny tag syntax is neither a string nor HTML.
+
+It is called JSX, and it is a syntax extension to JavaScript. We recommend using it with React to describe what the UI should look like. JSX may remind you of a template language, but it comes with the full power of JavaScript.
+
+JSX produces React “elements”. We will explore rendering them to the DOM in the next section. Below, you can find the basics of JSX necessary to get you started.
+
+
+
+References:
+
++ [Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
++ [JSK](https://reactjs.org/docs/introducing-jsx.html)
