@@ -9,7 +9,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 1. Module 1 [Growth_Mindset](102/Growth_Mindset.md)
 2. Module 2 [Cheat Sheet](102/cheat_sheet.md)
 3. Module 3 [Add Repositories using GIT Cmds](/102/Adding_Repositories_using_GIT.md)
-4. Module 4 [Process and Design](/102/Process_and_Design.md)
+4. Module 4 [Process and Design](102/Process_and_Design.md)
 5. Module 5 [CSS](102/CSS.md)
 6. Module 6 [Activate Pages with Java](/102/java.md)
 7. Module 7 [Computer Architecture and Logic](/102/CAL.md)
@@ -38,8 +38,6 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 
 1. [class-01.md](/301/class01.md)
 2. [ES6 Classes.md](/301/ES6Classes.md)
-
-
 
 
 Follow me on Social Media:
