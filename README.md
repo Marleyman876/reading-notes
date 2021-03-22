@@ -18,21 +18,21 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 
 ## Class 201 - Foundations of Software Development
 
-1. [class-01.md](./201/class01.md)
-2. [class-02.md](./201/class02.md)
-3. [class-03.md](./201/class03.md)
-4. [class-04.md](./201/class04.md)
-5. [class-05.md](./201/class05.md)
-6. [class-06.md](./201/class06.md)
-7. [class-07.md](./201/class07.md)
-8. [class-08.md](./201/class08.md)
-9. [class-09.md](../201/class09.md)
-10. [class-10.md](.201/class10.md)
-11. [class-11.md](/201/class11.md)
-12. [class-12.md](/201/class12.md)
-13. [class-13.md](/201/class13.md)
-14. [class-14.md](/201/class14.md)
-15. [class-14b.md](/201/class14b.md)
+1. [class-01.md](201/class01.md)
+2. [class-02.md](201/class02.md)
+3. [class-03.md](201/class03.md)
+4. [class-04.md](201/class04.md)
+5. [class-05.md](201/class05.md)
+6. [class-06.md](201/class06.md)
+7. [class-07.md](201/class07.md)
+8. [class-08.md](201/class08.md)
+9. [class-09.md](201/class09.md)
+10. [class-10.md](201/class10.md)
+11. [class-11.md](201/class11.md)
+12. [class-12.md](201/class12.md)
+13. [class-13.md](201/class13.md)
+14. [class-14.md](201/class14.md)
+15. [class-14b.md](201/class14b.md)
 
 ## Class 301- Intermediate Software Development
 
