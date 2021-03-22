@@ -11,10 +11,10 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 3. Module 3 [Add Repositories using GIT Cmds](/102/Adding_Repositories_using_GIT.md)
 4. Module 4 [Process and Design](102/Process_and_Design.md)
 5. Module 5 [CSS](102/CSS.md)
-6. Module 6 [Activate Pages with Java](/102/java.md)
-7. Module 7 [Computer Architecture and Logic](/102/CAL.md)
+6. Module 6 [Activate Pages with Java](102/java.md)
+7. Module 7 [Computer Architecture and Logic](102/CAL.md)
 8. Module 8 [Functions](/102/Functions.md)
-9. module 9 [Loops](/102/loops.md)
+9. module 9 [Loops](102/loops.md)
 
 ## Class 201 - Foundations of Software Development
 
@@ -36,8 +36,8 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 
 ## Class 301- Intermediate Software Development
 
-1. [class-01.md](/301/class01.md)
-2. [ES6 Classes.md](/301/ES6Classes.md)
+1. [class-01.md](301/class01.md)
+2. [ES6 Classes.md](301/ES6Classes.md)
 
 
 Follow me on Social Media:
