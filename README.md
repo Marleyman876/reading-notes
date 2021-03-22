@@ -32,11 +32,15 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 12. [class-12.md](201/class12.md)
 13. [class-13.md](201/class13.md)
 14. [class-14.md](201/class14.md)
-14b. [class-14b.md](201/class14b.md)
+15. [class-14b.md](201/class14b.md)
 
 ## Class 301- Intermediate Software Development
 
 1. [class-01.md](301/class01.md)
 2. [ES6 Classes.md](301/ES6Classes.md)
+
+
+
+
 Follow me on Social Media:
 [Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/) [Instagram](https://www.instagram.com/faded_in_reality/).  
