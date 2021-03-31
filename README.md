@@ -39,6 +39,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 1. [class-01.md](301- Intermediate Software Development/class01.md)
 2. [ES6 Classes.md](301- Intermediate Software Development/ES6Classes.md)
 3.[class03.md](301- Intermediate Software Development/class03.md)
+4. [class04.md](301- Intermediate Software Development/class04.md)
 
 
 Follow me on Social Media:
