@@ -43,7 +43,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 5. [class05.md](301- Intermediate Software Development/class05.md)
 6. [class06.md](301- Intermediate Software Development/class06.md)
 7. [class07.md](301- Intermediate Software Development/class07.md)
-
+8. [class08.md](301- Intermediate Software Development/class08.md)
 
 Follow me on Social Media:
 [Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/)
