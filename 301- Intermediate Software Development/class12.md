@@ -33,3 +33,10 @@ For complex queries: SQL databases are good fit for the complex query intensive 
 
 * For DB types: On a high-level, we can classify SQL databases as either open-source or close-sourced from commercial vendors. NoSQL databases can be classified on the basis of way of storing data as graph databases, key-value store databases, document store databases, column store database and XML databases.
 
+### References
+
+[SQL vs NoSQL Databases](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+
+[MongoDB.com](https://www.mongodb.com/)
+
+[Mongoose](https://mongoosejs.com/docs/api.html#Model)
