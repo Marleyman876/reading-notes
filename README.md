@@ -49,6 +49,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 11. [class11.md](301- Intermediate Software Development/class11.md)
 12. [class12.md](301- Intermediate Software Development/class12.md)
 13. [class13.md](301- Intermediate Software Development/class13.md)
+14. [class14.md](301- Intermediate Software Development/class14.md)
 
 Follow me on Social Media:
 [Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/)
