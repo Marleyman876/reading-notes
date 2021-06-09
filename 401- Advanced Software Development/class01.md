@@ -6,7 +6,7 @@
 
 O(1) describes an algorithm that will always execute in the same time (or space) regardless of the size of the input data set.
 
-```
+```py
 bool IsFirstElementNull(IList<String> elements)
 {
     return elements[0] == null;
