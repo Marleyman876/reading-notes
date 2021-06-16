@@ -12,7 +12,7 @@ Once you open a file you will want to read or write to the file.
 
 ```
 
-Another example of opening a text to read the file in python can be done using the following method: 
+Another example of opening a text to read the file in python can be done using the following method:
 
 ```py
 
@@ -22,7 +22,7 @@ with open('dog_breeds.txt', 'r') as reader:
 
 ```
 
-You can also break down lines and read each line byte by byte for eg: 
+You can also break down lines and read each line byte by byte for eg:
 
 ```py
 with open('dog_breeds.txt', 'r') as reader:
