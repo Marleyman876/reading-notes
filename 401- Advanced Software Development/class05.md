@@ -147,3 +147,11 @@ if __name__=='__main__':
     llist.printList()
 
 ```
+
+## References
+
+[Linked List Set 1](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+
+[Linked List Tutorial](https://www.youtube.com/watch?v=JlMyYuY1aXU)
+
+[Nodes](https://www.tutorialspoint.com/python/python_nodes.htm)

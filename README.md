@@ -57,7 +57,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 2. [class-02.md](401- Advanced Software Development/class02.md)
 3. [class-03.md](401- Advanced Software Development/class03.md)
 4. [class-04.md](401- Advanced Software Development/class04.md)
-
+5. [class-05.md](401- Advanced Software Development/class05.md)
 
 Follow me on Social Media:
 [Twitter](https://twitter.com/d_faded1) [LinkedIn](https://www.linkedin.com/in/garfieldgrant/)
