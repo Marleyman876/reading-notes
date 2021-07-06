@@ -19,6 +19,7 @@ def __init__(self, owner, amount=0):
         self._transactions = []
 
 ```
+
 * Dunder str & repr
 
 It’s common practice in Python to provide a string representation of your object for the consumer of your class (a bit like API documentation.) There are two ways to do this using dunder methods:
@@ -40,8 +41,14 @@ Let’s implement these two methods on the Account class:
 
 ```
 
+## Basic Statistics in Python
+
+Probability seeks to answer the question, “What is the chance of an event happening?” An event is some outcome of interest. To calculate the chance of an event happening, we also need to consider all the other events that can occur.
+
 References
 
 [Enriching Your Python Classes With Dunder (Magic, Special) Methods](https://dbader.org/blog/python-dunder-methods)
 
 [Dunder or Magic Methods in Python](https://www.geeksforgeeks.org/dunder-magic-methods-python/)
+
+[Basic Statistics in Python — Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
