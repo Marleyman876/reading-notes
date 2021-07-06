@@ -1,6 +1,6 @@
 # Dunder Methods
 
-Dunder or magic methods in Python are the methods having two prefix and suffix underscores in the method name. Dunder here means “Double Under (Underscores)”. These are commonly used for operator overloading. Few examples for magic methods are: __init__, __add__, __len__, __repr__ etc. 
+Dunder or magic methods in Python are the methods having two prefix and suffix underscores in the method name. Dunder here means “Double Under (Underscores)”. These are commonly used for operator overloading. Few examples for magic methods are: __init__, __add__, __len__, __repr__ etc.
 
 Dunder methods let you emulate the behavior of built-in types.
 
@@ -50,5 +50,3 @@ References
 [Enriching Your Python Classes With Dunder (Magic, Special) Methods](https://dbader.org/blog/python-dunder-methods)
 
 [Dunder or Magic Methods in Python](https://www.geeksforgeeks.org/dunder-magic-methods-python/)
-
-[Basic Statistics in Python — Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
