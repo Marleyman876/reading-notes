@@ -73,6 +73,7 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 18.[class-18.md](401- Advanced Software Development/class18.md)
 19.[class-19.md](401- Advanced Software Development/class19.md)
 20.[class-20.md](401- Advanced Software Development/class20.md)
+21.[class-21.md](401- Advanced Software Development/class21.md)
 
 Follow me on Social Media:
 [LinkedIn](https://www.linkedin.com/in/garfieldgrant/)
