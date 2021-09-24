@@ -79,5 +79,8 @@ Learning to code can be a daunting task, thus this pages is created in an effort
 24.[class-24.md](401- Advanced Software Development/class24.md)
 25.[class-25.md](401- Advanced Software Development/class25.md)
 32.[class-32.md](401- Advanced Software Development/class32.md)
+33.[class-33.md](401- Advanced Software Development/class33.md)
+34.[class-34.md](401- Advanced Software Development/class34.md)
+35.[class-35.md](401- Advanced Software Development/class35.md)
 Follow me on Social Media:
 [LinkedIn](https://www.linkedin.com/in/garfieldgrant/)
