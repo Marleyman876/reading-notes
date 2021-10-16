@@ -27,5 +27,3 @@ def __len__(self):
 ```
 
 - To iterate over transactions in reversed order you can implement the **reversed** special method
-
-# Iterators
